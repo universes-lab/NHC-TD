@@ -1,0 +1,41 @@
+{
+   "sources" : [
+      {
+         "usage" : "toplevel",
+         "filename" : "ReactorNuFullFill.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "anc/Dataset_1.csv"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "anc/Dataset_2.csv"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "anc/Supplemental.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "anc/correlations_SNO+only.txt"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "anc/correlations_combinedSNO+PDG.txt"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "anc/correlations_combinedSNO+PDG_classifier.txt"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "anc/loglikelihood_space.txt"
+      }
+   ],
+   "spec_version" : 1,
+   "texlive_version" : "2025",
+   "process" : {
+      "compiler" : "pdflatex"
+   }
+}
